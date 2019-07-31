@@ -93,10 +93,10 @@ sleep 1
 clear
 echo
 echo $pur"==================="$cy" ============================="
-echo $i"Ôûê"$pu"  AUTHOR  :  REY_CODING  "$i"                    Ôûê"
-echo $i"Ôûê"$pu"  WhatsApp:  08228431xxxxx"$i"                Ôûê"
-echo $i"Ôûê"$pu"  GMAIL   :  rye.jinx13@gmail.com"$i"     Ôûê"
-echo $i"Ôûê"$pu"  YOUTUBE :  Mr_R3y Channel"$i"                 Ôûê"
+echo $i"☣"$pu"  AUTHOR  :  REY_CODING  "$i"            ☣"
+echo $i"☣"$pu"  WhatsApp:  08228431xxxxx "$i"           ☣"
+echo $i"☣"$pu"  GMAIL   :  rye.jinx13@gmail.com "$i"    ☣"
+echo $i"☣"$pu"  YOUTUBE :  Mr_R3y Channel "$i"          ☣"
 echo $pur"==================="$cy" ============================="
 echo
 echo $cy"MeNu BRUTEPORCE NeWS:"
